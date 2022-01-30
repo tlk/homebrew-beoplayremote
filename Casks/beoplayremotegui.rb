@@ -1,6 +1,6 @@
 cask "beoplayremotegui" do
-  version "0.9"
-  sha256 "8db62d339837078599ccf3fe0a2effb35f00f9210795881858c5bd26f4971163"
+  version "0.9.1"
+  sha256 "1a11ac7eafde73a06c87146e6ec42b2d9bd6d14d46f0fe6a0153bdea66b21632"
 
   url "https://github.com/tlk/beoplay-macos-remote-gui/releases/download/v#{version}/BeoplayRemoteGUI.dmg"
   name "Beoplay Remote GUI (unofficial PoC)"
